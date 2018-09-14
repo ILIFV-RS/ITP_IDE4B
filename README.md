@@ -1,2 +1,5 @@
-# ITP_IDE4B
-Online-Kurs für das Modul Intelligente Technologien der Präzisionsbearbeitung
+# **Intelligente Technologien der Präzisionsbearbeitung**
+
+##Modulübersicht
+
+![image](images/Moduluebersicht.png)
